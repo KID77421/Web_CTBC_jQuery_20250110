@@ -1,0 +1,8 @@
+/* 匯入 Google Fonts 字體 */
+@import url('https://fonts.googleapis.com/css2?family=LXGW+WenKai+Mono+TC&family=LXGW+WenKai+TC&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "LXGW WenKai Mono TC", 微軟正黑體;
+}
